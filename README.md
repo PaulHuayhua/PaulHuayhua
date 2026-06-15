@@ -35,7 +35,7 @@ Junior backend developer with a primary stack in **Java, Spring Boot, and Angula
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
 </p>
 
-`Spring WebFlux` · `R2DBC` · `JPA / Hibernate` · `Spring Security` · `Flyway` · `JUnit & Mockito` · `FastAPI` · `Lombok`
+`Spring WebFlux` · `R2DBC` · `JPA / Hibernate` · `Spring Security` · `FastAPI` · `Lombok`
 
 ### Frontend
 <p align="left">
