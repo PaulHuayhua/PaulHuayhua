@@ -44,12 +44,14 @@ Junior backend developer with a primary stack in **Java, Spring Boot, and Angula
 
 ### Bases de datos / Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb,mssql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle Autonomous Database" title="Oracle Autonomous Database" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
 </p>
 
 ### DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" />
 </p>
 
 `Docker Compose` · `Docker Swarm` · `Oracle Cloud Infrastructure (OCI)`
